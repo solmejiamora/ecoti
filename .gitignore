@@ -1,0 +1,4 @@
+config/local
+images/prueba/*.jpg
+images/prueba/*.png
+*.log*
